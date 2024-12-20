@@ -1,0 +1,5 @@
+"media_title" = "Media Gallery";
+"gallery_access_error_message" = "You need to grant access to the gallery in the app settings.";
+"cancel" = "Cancel";
+"settings" = "Go to settings";
+"media_empty_state_no_media" = "No media files in the gallery.";
